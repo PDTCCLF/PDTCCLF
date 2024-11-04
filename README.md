@@ -9,7 +9,9 @@
 Link: https://www.youtube.com/watch?v=94WHJO5Uqc
 
 ## Contact:
-[![image](https://simpleicons.org/icons/linkedin.svg)](https://www.linkedin.com/in/pdtcclf/)
+<a href="https://www.linkedin.com/in/pdtcclf/">
+    <img src="https://github.com/user-attachments/assets/b0b81610-0f71-4c16-8bc3-29f90aea757d" alt="LinkedIn Logo" width="10" height="10">
+</a>
 
 ## Technical Skills:
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PDTCCLF"/>
