@@ -1,4 +1,4 @@
-## ![StarWarsHelloThereGIF](https://github.com/user-attachments/assets/49540626-f299-45bc-a4b7-5311512383e8) 👋
+## ![StarWarsHelloThereGIF](https://github.com/user-attachments/assets/49540626-f299-45bc-a4b7-5311512383e8)👋
 
 - 🌐I am a Web Developer.
 - 📖I'm currently a Master's student in Informatics at Pontifical Catholic University of Rio de Janeiro (PUC-Rio).
