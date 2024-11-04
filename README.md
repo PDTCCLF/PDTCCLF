@@ -10,7 +10,7 @@ Link: https://www.youtube.com/watch?v=94WHJO5Uqc
 
 ## Contact:
 <a href="https://www.linkedin.com/in/pdtcclf/">
-    <img src="https://github.com/user-attachments/assets/b0b81610-0f71-4c16-8bc3-29f90aea757d" alt="LinkedIn Logo" width="10" height="10">
+    <img src="https://github.com/user-attachments/assets/b0b81610-0f71-4c16-8bc3-29f90aea757d" alt="LinkedIn Logo" width="24" height="24">
 </a>
 
 ## Technical Skills:
