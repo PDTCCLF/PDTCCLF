@@ -9,10 +9,13 @@
 Link: https://www.youtube.com/watch?v=94WHJO5Uqc
 
 ## Contact:
-[![image](https://github.com/user-attachments/assets/75d3981c-abfa-45ea-9ab4-c5c7cf607390)](https://www.linkedin.com/in/pdtcclf/)
+[![image](https://github.com/user-attachments/assets/b0b81610-0f71-4c16-8bc3-29f90aea757d)](https://www.linkedin.com/in/pdtcclf/)
 
 ## Technical Skills:
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PDTCCLF"/>
+
 - 🤝I have experience with teamwork, especially in the agile Scrum methodology.
+
 - 👨‍💻I have worked as both a Scrum Dev and a Scrum Master.
-Other skills are listed on my resume, available on my LinkedIn profile.
+
+- Other skills are listed on my resume, available on my LinkedIn profile above.
